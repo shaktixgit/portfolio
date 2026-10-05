@@ -103,14 +103,14 @@ export const PROFILE: Profile = {
   resumePath: '/resume.pdf',
   idCard: {
     dept: 'CSE (Data Science)',
-    validTill: '2026',
+    validTill: '2028',
     idNo: 'ITER-2024-DS',
     cgpa: '8.0 CGPA',
     degree: 'B.Tech in CSE (Data Science)',
   },
   facts: [
     { label: 'Location', value: 'Bokaro, Jharkhand, India' },
-    { label: 'Education', value: 'ITER, SOA University (2024–2026)' },
+    { label: 'Education', value: 'ITER, SOA University (2024–2028)' },
     { label: 'Current Role', value: 'Data Science & Analyst' },
     { label: 'Email', value: 'shaktimahatokumar@gmail.com' },
   ],
@@ -522,7 +522,7 @@ export const TIMELINE: TimelineItem[] = [
     ],
   },
   {
-    year: '2024 — 2026',
+    year: '2024 — 2028',
     title: 'B.Tech in CSE (Specialization in Data Science)',
     place: 'ITER, SOA University',
     type: 'education',

@@ -4,7 +4,7 @@
   ### Full Stack Developer & Data Analyst
 
   [![Live Site](https://img.shields.io/badge/LIVE_WEBSITE-shaktipadmahato.vercel.app-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://shaktipadmahato.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakti-pad-mahato-0a187a249/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@shaktixlin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaktixlin/)
   [![GitHub](https://img.shields.io/badge/GitHub-shaktixgit-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaktixgit)
 
   <br />
@@ -55,7 +55,7 @@ An Awwwards-inspired personal portfolio designed around a **quiet luxury** aesth
 | **03 — Skills** | `Skills.tsx` | Categorized tech matrix with official SVG vectors, subtle brand-tinted glows, and interactive category filter chips. |
 | **04 — Work** | `Work.tsx` | Interactive project cards featuring *Stock Market Prediction*, *Dynamic Pricing Engine*, and *E-Commerce Pricing Optimization* with modal previews and résumé hyperlinks. |
 | **05 — Certifications** | `Certifications.tsx` | Verified credentials from Google, Meta, IBM, Harvard, Cisco, PwC, Microsoft, and Infosys with direct credential links. |
-| **06 — Experience** | `Experience.tsx` | Unified timeline detailing internships at Cloud Counselage, Cognifyz, Encryptix, and academics at Galgotias University & Techno India. |
+| **06 — Experience** | `Experience.tsx` | Unified timeline detailing internships at Cloud Counselage, Cognifyz, Encryptix, and academics at ITER, SOA University (2024–2028) & Techno India. |
 | **07 — Achievements** | `Achievements.tsx` | Competitive coding rankings across LeetCode, CodeChef, HackerRank, GeeksforGeeks, and Unstop. |
 | **08 — Contact** | `Contact.tsx` | One-click email copy chip with live feedback, direct LinkedIn/GitHub channels, and downloadable résumé. |
 
@@ -167,9 +167,9 @@ npm run start -p 3000
 *Full Stack Developer & Data Analyst*
 
 * 🌐 **Website**: [shaktipadmahato.vercel.app](https://shaktipadmahato.vercel.app)
-* 💼 **LinkedIn**: [linkedin.com/in/shakti-pad-mahato-0a187a249](https://www.linkedin.com/in/shakti-pad-mahato-0a187a249/)
+* 💼 **LinkedIn**: [linkedin.com/in/shaktixlin](https://www.linkedin.com/in/shaktixlin/) (@shaktixlin)
 * 🐙 **GitHub**: [@shaktixgit](https://github.com/shaktixgit)
-* ✉️ **Email**: [isattu798@gmail.com](mailto:isattu798@gmail.com)
+* ✉️ **Email**: [shaktimahatokumar@gmail.com](mailto:shaktimahatokumar@gmail.com)
 * 📍 **Location**: Bhubaneswar, India.
 
-* NEW PROJECTS COMMING SOON 
+* NEW PROJECTS COMING SOON
