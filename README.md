@@ -10,7 +10,7 @@
   <br />
 
   <a href="https://shaktipadmahato.vercel.app">
-    <img src="public/intro.jpg" alt="Shakti Pad Mahato Portfolio Preview" width="800" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.12);" />
+    <img src="public/intro.png" alt="Shakti Pad Mahato Portfolio Preview" width="800" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.12);" />
   </a>
 
   <br />
