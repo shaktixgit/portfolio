@@ -170,4 +170,6 @@ npm run start -p 3000
 * 💼 **LinkedIn**: [linkedin.com/in/shakti-pad-mahato-0a187a249](https://www.linkedin.com/in/shakti-pad-mahato-0a187a249/)
 * 🐙 **GitHub**: [@shaktixgit](https://github.com/shaktixgit)
 * ✉️ **Email**: [isattu798@gmail.com](mailto:isattu798@gmail.com)
-* 📍 **Location**: Greater Noida, India
+* 📍 **Location**: Bhubaneswar, India.
+
+* NEW PROJECTS COMMING SOON 
